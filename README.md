@@ -5,7 +5,7 @@ This page is not comprehensive. Rather, it collects a few of the lessons we've l
 - Structure
 - Weekly Operations
     - [Meeting 1: Plan](#meeting-1-:-Plan)
-    - [During the Week: Track and Support](#During-the-Week-:-Track-and-Support)
+    - [During the Week: Track and Support](https://github.com/joeyouss/checkingMD/tree/main#weekly-operations)
     - [Meeting 2: Evaluate and Reflect](Meeting-2-:-Evaluate-and-Reflect)
 
 ## Structure
