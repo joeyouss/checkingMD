@@ -2,7 +2,7 @@
 This page is not comprehensive. Rather, it collects a few of the lessons we've learned about effective teams.
 
 ### Table of Contents:
-- Structure
+- [Structure](#sructure)
 - Weekly Operations
     - [Meeting 1: Plan](#meeting-1-:-plan)
     - [During the Week: Track and Support](#during-the-week-:-track-and-support)
