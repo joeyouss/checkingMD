@@ -1,6 +1,8 @@
 # Leading Oppia Teams
 This page is not comprehensive. Rather, it collects a few of the lessons we've learned about effective teams.
+[click on this link](#my-multi-word-header)
 
+### My Multi Word Header
 ### Table of Contents:
 - Structure
 - Weekly Operations
