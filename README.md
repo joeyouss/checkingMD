@@ -6,7 +6,7 @@ This page is not comprehensive. Rather, it collects a few of the lessons we've l
 - Weekly Operations
     - [Meeting 1: Plan](#meeting-1-:-Plan)
     - [During the Week: Track and Support](https://github.com/joeyouss/checkingMD/tree/main#weekly-operations)
-    - [Meeting 2: Evaluate and Reflect](Meeting-2-:-Evaluate-and-Reflect)
+    - [Meeting 2: Evaluate and Reflect](https://github.com/joeyouss/checkingMD/tree/main#meeting-2-evaluate-and-reflect)
 
 ## Structure
 Many teams have one team lead who supports the team's members. Individual members may also develop areas of expertise
