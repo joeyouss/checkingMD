@@ -29,3 +29,36 @@ Between meetings, the team lead tracks each member's progress on their goals. To
 In the next meeting, evaluate the team's progress on each goal. Some teams do this by highlighting each goal in green if the goal was achieved, yellow if progress was made on it, and red if the member wasn't able to start on it. You'll know you are setting reasonably-sized goals when you're consistently highlighting them green. Unexpected problems crop up all the time, though, so a few yellow tasks here and there is to be expected.
 This evaluation period is also a good time to reflect on the week's work in the broader context of the team's mission. Are you fulfilling that mission? Bear the answer in mind when setting next week's goals.
 
+
+
+# Learning Resources
+### Table of Contents:
+- [Beginners](#beginners)
+- [Advanced](advanced)
+## Beginners
+The following tutorials are the bare minimum which will help you get started:
+1. Git: https://learngitbranching.js.org/ -- try the following levels:
+    - Level 1,2,3 from the introduction sequence, and
+    - Level 1,2,3,4,5,6 from Push and Pull Git remotes.
+2. GitHub: Intro to GitHub
+
+## Advanced
+These tutorials are for slightly more advanced topics, which are good to learn, but not necessary in order to make your first PR.
+1. Git: the other levels from https://learngitbranching.js.org/
+2. Visualizing Git: http://git-school.github.io/visualizing-git/
+3. GitHub: Managing merge conflicts
+
+# Teaching with Oppia
+Thanks for your interest in teaching with Oppia! The Oppia.org site aims to make it easy for you to help other people learn new things. It also provides editing tools and an open commons, so that your work can reach lots of people. We hope that this will raise the bar for education globally, and improve the learning experience for students who don't have access to expert tutors. You can read more about the Oppia project on our GitHub page, and learn about Oppia's mission from our website: https://www.oppiafoundation.org/.
+
+As a contributor, you are welcome to create a lesson on the Oppia site, but there are also opportunities to be involved as part of a larger effort. Here is a list of our current projects:
+
+### Table of contents
+-
+-
+
+## Creating effective basic mathematics lessons
+Currently, a large part of the team is focusing on creating a set of lessons to teach basic mathematics, in a way that ensures that everyone in the world can access and learn effectively from these, no matter what their background. (This is important because more than half of children and adolescents worldwide aren't achieving minimum proficiency in these skills.) Here are some of the existing lessons we've created, with more on the way: Fractions, Ratios and Negative Numbers.
+
+We welcome help with lesson creation, translations, voiceovers and graphic design! If you'd like to contribute, please fill out this form in order to let us know what you'd like to help with!
+
