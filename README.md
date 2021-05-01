@@ -1,13 +1,12 @@
 # Leading Oppia Teams
-This page is not comprehensive. Rather, it collects a few of the lessons we've learned about effective teams.
-[click on this link](#my-multi-word-header)
+This page is not comprehensive. Rather, it collects a few of the lessons we've learned about effective teams.\
 
 ### My Multi Word Header
 ### Table of Contents:
 - Structure
 - Weekly Operations
-    - [Meeting 1: Plan](#meeting-1-:-Plan)
-    - [During the Week: Track and Support](https://github.com/joeyouss/checkingMD/tree/main#weekly-operations)
+    - [Meeting 1: Plan](#meeting-1:-Plan)
+    - [During the Week: Track and Support](#During-the-Week:-Track-and-Support)
     - [Meeting 2: Evaluate and Reflect](https://github.com/joeyouss/checkingMD/tree/main#meeting-2-evaluate-and-reflect)
 
 ## Structure
