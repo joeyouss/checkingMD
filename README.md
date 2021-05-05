@@ -1,14 +1,15 @@
+NOTE - THE HIGHLIGHTED TEXT HAS SUGGESTIONS ATTACHED TO IT IN THE FORM OF COMMENTS. PLEASE READ THROUGH THEM AND LEAVE YOUR FEEDBACK. THANKS!
  
-Table of contents:
-Introduction
-Ways to contribute :
-Coder
-Instructional designer and/or storyteller
-UX researcher
-Voice artist
-Designers and artists
-Communication and asking for help
-Find your interest!
+### Table of contents:
+- Introduction
+- Ways to contribute :
+    - Coder
+    - Instructional designer and/or storyteller
+    - UX researcher
+    - Voice artist
+    - Designers and artists
+- Communication and asking for help
+- Find your interest!
  
 ### Contributing to Oppia
 Thanks for your interest in contributing to the Oppia project, and making it easier for students to learn online in an effective and enjoyable way!
