@@ -1,7 +1,7 @@
 NOTE - THE HIGHLIGHTED TEXT HAS SUGGESTIONS ATTACHED TO IT IN THE FORM OF COMMENTS. PLEASE READ THROUGH THEM AND LEAVE YOUR FEEDBACK. THANKS!
  
 ### Table of contents:
-- Introduction
+- [Introduction](#contributing-to-oppia)
 - Ways to contribute :
     - Coder
     - Instructional designer and/or storyteller
