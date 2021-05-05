@@ -2,14 +2,14 @@ NOTE - THE HIGHLIGHTED TEXT HAS SUGGESTIONS ATTACHED TO IT IN THE FORM OF COMMEN
  
 ### Table of contents:
 - [Introduction](#contributing-to-oppia)
-- Ways to contribute :
+- [Ways to contribute](#ways-to-contribute)
     - Coder
     - Instructional designer and/or storyteller
     - UX researcher
     - Voice artist
     - Designers and artists
-- Communication and asking for help
-- Find your interest!
+- [Communication and asking for help](#Communication-and-asking-for-help)
+- [Find your interest!](#find-your-interest)
  
 ### Contributing to Oppia
 Thanks for your interest in contributing to the Oppia project, and making it easier for students to learn online in an effective and enjoyable way!
@@ -19,17 +19,17 @@ There are lots of ways to help out, from joining our team of lesson creators to 
 At Oppia, we are on a mission to make quality education accessible for all, and you can contribute in any possible way to make that goal one step closer.
 To make it easier to get started, we've catalogued some of the different ways to help out. The following links will help you in getting started :
  
-[Coders](https://github.com/oppia/oppia/wiki/Contributing-code-to-Oppia)
-[Instructional designers and storytellers](https://github.com/oppia/oppia/wiki/Teaching-with-Oppia)
-[UX researchers](https://github.com/oppia/oppia/wiki/Conducting-research-with-students)
-[Voice artists](https://github.com/oppia/oppia/wiki/Instructions-for-voice-artists)
-[Designers and artists](https://github.com/oppia/oppia/wiki/Contributing-to-Oppia%27s-design)
+- [Coders](https://github.com/oppia/oppia/wiki/Contributing-code-to-Oppia)
+- [Instructional designers and storytellers](https://github.com/oppia/oppia/wiki/Teaching-with-Oppia)
+- [UX researchers](https://github.com/oppia/oppia/wiki/Conducting-research-with-students)
+- [Voice artists](https://github.com/oppia/oppia/wiki/Instructions-for-voice-artists)
+- [Designers and artists](https://github.com/oppia/oppia/wiki/Contributing-to-Oppia%27s-design)
  
 ### Communication and asking for help
 Asking for help is synonymous with learning. We understand as a new contributor you will run into problems. The best way to find help are:
-Read our [user documentation](http://oppia.github.io/) - the guide in itself is complete and the answer to your question might already be written in it.
-Post your questions to our [developer mailing list](https://groups.google.com/forum/?fromgroups#!forum/oppia-dev).
-Join our [Gitter channel](https://gitter.im/oppia/oppia-chat) and post your doubts there.
+- Read our [user documentation](http://oppia.github.io/) - the guide in itself is complete and the answer to your question might already be written in it.
+- Post your questions to our [developer mailing list](https://groups.google.com/forum/?fromgroups#!forum/oppia-dev).
+- Join our [Gitter channel](https://gitter.im/oppia/oppia-chat) and post your doubts there.
 We have a healthy and growing community of contributors, mentors and maintainers who are happy to help you with everything. So don’t hesitate !. 
  
  
