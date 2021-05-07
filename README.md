@@ -1,7 +1,7 @@
 ### Table of contents
 - [Oppia's Mission](#oppia's-mission)
 - [Oppia's Vision](#vision)
-  - [Creation of lessons](#creation-of-lessons)
+  - [Creation of lessons](#(i)-creation-of-lessons)
   - [Effectiveness of lessons](#effectiveness-of-lessons)
   - [Retention of students](#retention-of-students)
   - [Universally accessible lessons](#universally-accessible-lessons)
