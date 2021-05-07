@@ -2,10 +2,10 @@
 - [Oppia's Mission](#oppia's-mission)
 - [Oppia's Vision](#vision)
   - [Creation of lessons](#i-creation-of-lessons)
-  - [Effectiveness of lessons](#effectiveness-of-lessons)
-  - [Retention of students](#retention-of-students)
-  - [Universally accessible lessons](#universally-accessible-lessons)
-  - [Marketing and Growth](#marketing-and-Growth)
+  - [Effectiveness of lessons](#ii-effectiveness-of-lessons)
+  - [Retention of students](#iii-retention-of-students)
+  - [Universally accessible lessons](#iv-universally-accessible-lessons)
+  - [Marketing and Growth](#v-marketing-and-Growth)
  
 ### Oppia’s Mission
 The Oppia Foundation’s mission is to provide high quality education to those who lack access to it. We do this through the creation and maintenance of the Oppia platform which enables the creation and distribution of high-quality scalable online lessons that are constructed according to established educational principles. We also support this mission through the empowerment and coordination of our volunteer community, and the development of critical partnerships with NGOs in the communities we aim to serve.
